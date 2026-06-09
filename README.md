@@ -1,2 +1,2 @@
 # JavaScript
-This is my first repo
+This is My Javascript Repository 
