@@ -4,7 +4,7 @@
 // heap uses in non primitve 
 
 // defined in heap is a copy 
-// defined in heap passes as an reference
+// defined in stack passes as an reference
 
 
 let myname = "abhi"
