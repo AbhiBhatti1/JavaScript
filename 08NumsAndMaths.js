@@ -1,4 +1,4 @@
-/*
+
 const number =200   // simple output 
 console.log(number) // 200
 
@@ -25,7 +25,7 @@ console.log(num.toLocaleString())  // 100,000
 // gives the output in american standard 
 
 console.log(num.toLocaleString('en-IN')) // 1,00,000
-*/
+
 
 // gives the input in indian standard
 
